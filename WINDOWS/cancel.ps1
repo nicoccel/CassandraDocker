@@ -1,0 +1,6 @@
+docker stop cassandraBalena
+docker rm cassandraBalena
+docker volume rm f0c03af7de913d275e6cc1bbe830faa60780953bfbb69ead6d8851823e51ac3c
+
+
+Remove-Item D:/Multiverso/Cassandra

@@ -1,0 +1,14 @@
+LINK
+
+> https://docs.docker.com/engine/reference/builder/#environment-replacement
+
+> https://hub.docker.com/_/cassandra/
+
+Requisiti 
+
+Docker installato con WSL
+
+Importante
+
+Quando si esegue la build del Dockerfile si deve speficicare che l'immagine si chiama cassandra:latest
+Se viene suggerito un altro nome bisogna cambiarlo
