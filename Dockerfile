@@ -4,6 +4,8 @@ FROM cassandra
 
 ENV name=cassandraBalena
 
+ENV nvolume=cassandraVolume
+
 # Imposta il percorso per salvare i dati
 ENV path=D:\Multiverso\Cassandra
 

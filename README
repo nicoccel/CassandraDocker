@@ -4,6 +4,12 @@ LINK
 
 > https://hub.docker.com/_/cassandra/
 
+https://docs.docker.com/storage/volumes/#mount-a-host-directory-as-a-data-volume
+
+https://docs.docker.com/engine/reference/commandline/system_prune/
+
+
+
 Requisiti 
 
 Docker installato con WSL
