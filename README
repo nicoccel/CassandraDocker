@@ -11,6 +11,12 @@ https://docs.docker.com/engine/reference/commandline/system_prune/
 https://docs.docker.com/engine/reference/commandline/network_create/
 
 
+Suggerimento
+> https://github.com/sumiet/multi-node-cassandra-docker
+
+https://developer.ibm.com/tutorials/ba-multi-data-center-cassandra-cluster-kubernetes-platform/
+
+
 
 Requisiti 
 
